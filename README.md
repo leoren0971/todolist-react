@@ -1,4 +1,4 @@
-# 基于React + Antd tidolist
+# 基于React + Antd todolist
 
 目前数据只缓存在本地，以后计划实现node + mangoDB 的后台，来实现一个完整的在线版todolist。
 
